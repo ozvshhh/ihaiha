@@ -7,8 +7,7 @@ export const Home:React.FC = ()=>{
     return(
       <>
       <TopBar/>
-      <Contents>
-      </Contents>
+      <Greeting/>
       </>
       )
     }
