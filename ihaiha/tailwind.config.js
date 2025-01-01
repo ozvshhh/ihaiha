@@ -5,6 +5,9 @@ export default {
     content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
     theme: {
       extend: {
+        fontfamily:{
+          sans: ["Black_Hans_Sans", "sans-serif"],
+        },
         colors: {
           primary: {
             DEFAULT: "#2bca43",

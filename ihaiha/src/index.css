@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+@font-face {
+  font-family: "Black_Hans_Sans";
+  src: url("https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap")
+    format("woff");
+}
